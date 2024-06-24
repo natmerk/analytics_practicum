@@ -18,4 +18,4 @@
 
 ### Навыки и инструменты
 
-Python, pandas, matplotlib, seaborn, scipy, sklearn, машинное обучение, классификация, кластеризация
+Python, pandas, matplotlib, seaborn, scipy,numpy, проверка статистических гипотез, описательная статистика, А/В тестирование.
