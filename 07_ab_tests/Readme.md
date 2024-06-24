@@ -17,4 +17,4 @@
 
 ### Навыки и инструменты
 
-Python, pandas, matplotlib, numpy, seaborn, scipy, описательная статистика, проверка статистических гипотез.
+Python, pandas, matplotlib, numpy, seaborn, scipy, plotly, А/В тестирование, проверка статистических гипотез.
